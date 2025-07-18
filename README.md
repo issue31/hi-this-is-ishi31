@@ -37,5 +37,5 @@ Feel free to reach out for collaboration or feedback!
 ## Name: Ishita Singh
 ### Role: Junior Software Engineer at Cognizant
 ### Location: Bengaluru, KA, India
-### LinkedIn: [linkedin.com/in/ishita-s-4b336a191]
+### LinkedIn: [ linkedin.com/in/ishita-s-4b336a191 ]
 ### Email: [recruit.ishita.singh@gmail.com]
